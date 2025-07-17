@@ -1,0 +1,22 @@
+[
+  {
+    "type": "human",
+    "content": "hello bro",
+    "timestamp": "2025-06-28T17:06:18.228304"
+  },
+  {
+    "type": "ai",
+    "content": "What's up? How can I help you today?",
+    "timestamp": "2025-06-28T17:06:18.228383"
+  },
+  {
+    "type": "human",
+    "content": "do you work offline?",
+    "timestamp": "2025-06-28T17:06:18.228386"
+  },
+  {
+    "type": "ai",
+    "content": "I can provide information and assist with tasks, but I don't have the ability to work offline. I'm a cloud-based AI, which means I rely on internet connectivity to function. If you're in an area with no internet access, I won't be able to assist you.\n\nHowever, there are some workarounds:\n\n1. **Save our conversation**: You can save this chat session and continue it when you have internet access.\n2. **Email me**: You can send an email with your question or topic, and I'll respond as soon as possible after you regain internet access.\n3. **Come back later**: If you don't have internet access right now, feel free to come back later and ask your question, and I'll do my best to assist you.\n\nKeep in mind that while I can provide some offline assistance (like saving our conversation), I won't be able to process or respond to any new requests until you regain internet access.",
+    "timestamp": "2025-06-28T17:06:18.228389"
+  }
+]

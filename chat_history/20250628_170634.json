@@ -1,0 +1,12 @@
+[
+  {
+    "type": "human",
+    "content": "hello how are you?",
+    "timestamp": "2025-06-28T17:06:37.009413"
+  },
+  {
+    "type": "ai",
+    "content": "Hello! I'm just a language model, so I don't have emotions or feelings like humans do. However, I'm functioning properly and ready to assist you with any questions or tasks you may have. How can I help you today?",
+    "timestamp": "2025-06-28T17:06:37.009572"
+  }
+]

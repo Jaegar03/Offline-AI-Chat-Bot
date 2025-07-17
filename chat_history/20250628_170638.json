@@ -1,0 +1,12 @@
+[
+  {
+    "type": "human",
+    "content": "hello",
+    "timestamp": "2025-06-28T17:07:37.104047"
+  },
+  {
+    "type": "ai",
+    "content": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?",
+    "timestamp": "2025-06-28T17:07:37.104121"
+  }
+]

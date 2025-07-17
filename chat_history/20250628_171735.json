@@ -1,0 +1,22 @@
+[
+  {
+    "type": "human",
+    "content": "hello!",
+    "timestamp": "2025-06-28T17:17:59.610498"
+  },
+  {
+    "type": "ai",
+    "content": "Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?",
+    "timestamp": "2025-06-28T17:17:59.610666"
+  },
+  {
+    "type": "human",
+    "content": "yes, what's your name",
+    "timestamp": "2025-06-28T17:17:59.610671"
+  },
+  {
+    "type": "ai",
+    "content": "I don't have a personal name. I'm an AI designed to assist and communicate with users like you. My purpose is to provide helpful information and answer questions to the best of my abilities. Is there something specific you'd like to know or discuss?",
+    "timestamp": "2025-06-28T17:17:59.610676"
+  }
+]
